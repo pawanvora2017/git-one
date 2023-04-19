@@ -76,3 +76,19 @@ details p {
 	margin: 1rem;
 	line-height: 1.7;
 }
+
+/* Contact Us --- */
+#contactInfo {
+	padding: 2rem;
+	background-color: #e7e7e7;
+	border-radius: 0.5rem;
+}
+
+.label {
+	color: #7c7c7c;
+}
+.data {
+	font-size: 1.25rem;
+	line-height: 1.7;
+	color: #3c3c3c;
+}
