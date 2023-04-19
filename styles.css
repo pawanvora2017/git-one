@@ -58,3 +58,21 @@ ul {
 	border-radius: 0.5rem;
 	box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.1);
 }
+
+/* FAQ --- */
+details {
+	padding: 1rem;
+	border: 1px solid #e7e7e7;
+	border-radius: 0.5rem;
+}
+
+summary {
+	cursor: pointer;
+	font-weight: 500;
+	font-size: 1.25rem;
+}
+
+details p {
+	margin: 1rem;
+	line-height: 1.7;
+}
